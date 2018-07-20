@@ -1,0 +1,1 @@
+export const FORMSPREE_EMAIL = "seyed.emad7@gmail.com"
